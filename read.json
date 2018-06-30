@@ -1,0 +1,52 @@
+{
+    "ROM": {
+        "c3bf9d99b9a02d587200ac07dcf179804": {},
+        "c3d69cd545831a9129d4bd1c6ee4a91ad": {
+            "u16b0018d5dd7d768340891629db63763": true,
+            "u3d0c1eaa8dddffb7d6f8d0e75307910e": true,
+            "u48466ea7551868efbc5b311c7e4bc438": "u48466ea7551868efbc5b311c7e4bc438",
+            "u52fa09d859368a85c91cf956e365b8b3": true,
+            "u6660a1fecfe1ced48f3055682760064c": true,
+            "u780a8c2d50f19fc1ae0a4c27c106b94f": true,
+            "u78cbe055077d7be6895c25aacb496055": "u78cbe055077d7be6895c25aacb496055",
+            "u80fc8e9e9ed432e64de62b6dcdc35d42": "u80fc8e9e9ed432e64de62b6dcdc35d42",
+            "u9f9e51ef9cb0f241de0464bd5c8ef2f9": true,
+            "uc120ad903ac64e40e89c547374546c7c": true,
+            "ud8aa035daec3686aca841ed967977808": true,
+            "uf47d1a98c1e675024bb4c571bfe68394": true,
+            "ufc792fdc52a1f42a0801eee9417ad8f3": "ufc792fdc52a1f42a0801eee9417ad8f3"
+        },
+        "c466ac86a96edf10d53bcfb64cafea02f": {},
+        "c4e88935b24d780963a46d8cb9fffdc9c": {},
+        "c9dcf785bfc5d8f59d2e638f5ee5837c2": {},
+        "ce32569e0be582dfe22a204a57b9346e3": {},
+        "ud12cf7c7ac1e5607559f40b2e5b993fd": {}
+    },
+    "readMember": {
+        "c3bf9d99b9a02d587200ac07dcf179804": "",
+        "c3d69cd545831a9129d4bd1c6ee4a91ad": "ufc792fdc52a1f42a0801eee9417ad8f3u80fc8e9e9ed432e64de62b6dcdc35d42u48466ea7551868efbc5b311c7e4bc438u78cbe055077d7be6895c25aacb496055",
+        "c466ac86a96edf10d53bcfb64cafea02f": "",
+        "c4e88935b24d780963a46d8cb9fffdc9c": "",
+        "c9dcf785bfc5d8f59d2e638f5ee5837c2": "",
+        "ce32569e0be582dfe22a204a57b9346e3": "",
+        "ud12cf7c7ac1e5607559f40b2e5b993fd": ""
+    },
+    "readPoint": {
+        "c3bf9d99b9a02d587200ac07dcf179804": "7582012615345",
+        "c3d69cd545831a9129d4bd1c6ee4a91ad": "7951472498196",
+        "c466ac86a96edf10d53bcfb64cafea02f": "7582030912022",
+        "c4e88935b24d780963a46d8cb9fffdc9c": "7582098509786",
+        "c9dcf785bfc5d8f59d2e638f5ee5837c2": "7567268910704",
+        "ce32569e0be582dfe22a204a57b9346e3": "7584986912083",
+        "ud12cf7c7ac1e5607559f40b2e5b993fd": "7581247172089"
+    },
+    "readTime": {
+        "c3bf9d99b9a02d587200ac07dcf179804": "01:05:55",
+        "c3d69cd545831a9129d4bd1c6ee4a91ad": "13:00:24",
+        "c466ac86a96edf10d53bcfb64cafea02f": "01:12:39",
+        "c4e88935b24d780963a46d8cb9fffdc9c": "01:38:51",
+        "c9dcf785bfc5d8f59d2e638f5ee5837c2": "09:41:19",
+        "ce32569e0be582dfe22a204a57b9346e3": "16:37:17",
+        "ud12cf7c7ac1e5607559f40b2e5b993fd": "22:04:21"
+    }
+}
